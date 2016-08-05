@@ -1,0 +1,42 @@
+_repo: The-Learned-Women_8772
+_version: 0.0.1
+alternative_title: Les femmes savantes. English
+contributor:
+  translator:
+    agent_name: Wall, Charles Heron
+    aliases:
+    - Heron-Wall, C. (Charles)
+    - Wall, C. H. (Charles Heron)
+    gutenberg_agent_id: '2877'
+    url: http://www.gutenberg.org/2009/agents/2877
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    - Moliere
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Molière, 1622-1673 -- Translations into English'
+- !lcsh 'Comedies'
+- GITenberg
+title: The Learned Women
+url: http://www.gutenberg.org/ebooks/8772
